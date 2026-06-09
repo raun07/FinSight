@@ -1,0 +1,5 @@
+dti_tier,count,default_rate_pct,avg_rate,avg_loan_amt
+High DTI (>30%),126976,31.24,15.42,14322.0
+Elevated (20-30%),403892,24.51,13.8,14736.0
+Moderate (10-20%),554665,19.16,12.88,14642.0
+Low DTI (<10%),242751,16.22,12.32,13567.0
